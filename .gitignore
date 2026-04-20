@@ -1,0 +1,7 @@
+.venv
+__pycache__
+input/
+ecommerce-data.zip
+*.csv
+.ipynb_checkpoints/
+
